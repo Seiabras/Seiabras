@@ -17,6 +17,7 @@ drwx------  <a href="https://v2tech.app.br">v2tech/</a>                 fuel pri
 drwx------  <a href="https://marginalia.blog.br">marginalia/</a>             history journal + the writer's admin panel
 drwx------  <a href="https://losveganaestrada.com.br">losveganaestrada/</a>       travel itineraries · orders panel · LGPD erase
 drwxr-xr-x  <a href="https://github.com/Seiabras/linu-sites">linu-sites/</a>             13 locales from one template · CI deploy to my VM
+drwxr-xr-x  <a href="https://github.com/Seiabras/secure-node-starter">secure-node-starter/</a>    zero deps · STRIDE threat model · ASVS L1 · ZAP in CI
 drwxr-xr-x  <a href="https://github.com/Seiabras/cafe-aurora">cafe-aurora/</a>            café by night, bakery by day · CSS · Bootstrap · Tailwind
 drwxr-xr-x  <a href="https://github.com/Seiabras/fotografia-do-cerrado">fotografia-do-cerrado/</a>  WCAG 2.2 palette, every contrast ratio measured
 drwxr-xr-x  <a href="https://github.com/Seiabras/abelhas-sem-ferrao">abelhas-sem-ferrao/</a>     design thinking → accessible static site
@@ -31,6 +32,7 @@ strict-transport-security: max-age=31536000
 <b>seiabras@bsb:~$</b> cat ~/.plan
 - linupedia: accounts by e-mail code, community wall, multiplayer camp
 - linu-sites: native-speaker review of the 12 translated locales
+- secure-node-starter: pentest of a deployed copy, then passkeys for admins
 - learning: networking, blue team / SOC, pentest
 
 <b>seiabras@bsb:~$</b> cat ~/.contact

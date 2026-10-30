@@ -1,0 +1,35 @@
+# A cobrinha do README: todo dia gera o SVG do gráfico de contribuições e publica na branch `output`.
+# As ações ficam presas pelo SHA (com a versão no comentário), para uma tag mexida não trocar o código.
+name: Cobrinha
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "Cobrinha do gráfico de contribuições"
+          author: Seiabras <126572587+Seiabras@users.noreply.github.com>
+          committer: Seiabras <126572587+Seiabras@users.noreply.github.com>
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

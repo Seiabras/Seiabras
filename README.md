@@ -3,7 +3,7 @@
     .--.        <b>seiabras</b>@<b>bsb</b>
    |o_o |       ------------
    |:_/ |       <b>name</b>      Luiz Matheus Vega (he/him)
-  //   \ \      <b>role</b>      full-stack developer
+  //   \ \      <b>role</b>      full-stack developer · Linu Sites (web studio, client work)
  (|     | )     <b>uni</b>       Computer Science @ UniCEUB
 /'\_   _/`\     <b>location</b>  Brasília, BR
 \___)=(___/     <b>focus</b>     linux hardening · networking · SOC · pentest

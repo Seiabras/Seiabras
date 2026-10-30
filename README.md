@@ -43,6 +43,46 @@ linkedin  <a href="https://www.linkedin.com/in/luiz-matheus-vega-3a076528a">in/l
 <b>seiabras@bsb:~$</b> █
 </pre>
 
+<details>
+<summary><b><code>seiabras@bsb:~$ LANG=pt_BR.UTF-8 cat README</code></b> (em português)</summary>
+
+<pre>
+<b>seiabras@bsb:~$</b> whoami
+<b>nome</b>      Luiz Matheus Vega (ele/dele)
+<b>função</b>    dev full-stack · Linu Sites (estúdio web, trabalho para clientes)
+<b>curso</b>     Ciência da Computação @ UniCEUB
+<b>local</b>     Brasília, BR
+<b>foco</b>      hardening de linux · redes · SOC · pentest
+<b>stack</b>     TypeScript · React Native · Node.js · SQLite · Python · C
+<b>infra</b>     Ubuntu · Caddy · Oracle Cloud · GitHub Actions
+<b>hobby</b>     linguística (daí os 197 idiomas abaixo)
+
+<b>seiabras@bsb:~$</b> ls -l ~/projetos
+drwx------  <a href="https://linupedia.com.br">linupedia/</a>              app de estudos offline · 197 idiomas · Expo + SQLite
+drwx------  <a href="https://v2tech.app.br">v2tech/</a>                 auditoria de preço de combustível · Node, zero deps
+drwx------  <a href="https://marginalia.blog.br">marginalia/</a>             revista de história + painel para a autora
+drwx------  <a href="https://losveganaestrada.com.br">losveganaestrada/</a>       roteiros de viagem · painel de pedidos · LGPD
+drwxr-xr-x  <a href="https://github.com/Seiabras/linu-sites">linu-sites/</a>             13 idiomas num modelo só · deploy por CI na minha VM
+drwxr-xr-x  <a href="https://github.com/Seiabras/secure-node-starter">secure-node-starter/</a>    zero deps · modelo STRIDE · ASVS L1 · ZAP no CI · en/pt
+drwxr-xr-x  <a href="https://github.com/Seiabras/cafe-aurora">cafe-aurora/</a>            café à noite, padaria de dia · Bootstrap · Tailwind
+drwxr-xr-x  <a href="https://github.com/Seiabras/fotografia-do-cerrado">fotografia-do-cerrado/</a>  paleta WCAG 2.2, cada contraste medido
+drwxr-xr-x  <a href="https://github.com/Seiabras/abelhas-sem-ferrao">abelhas-sem-ferrao/</a>     design thinking → site estático acessível
+# drwx------ = código fechado; o nome abre o site no ar
+
+<b>seiabras@bsb:~$</b> cat ~/.plano
+- linupedia: contas por código no e-mail, mural da comunidade, acampamento multiplayer
+- linu-sites: revisão por nativos dos 12 idiomas traduzidos
+- secure-node-starter: pentest de uma cópia publicada, depois passkeys para administradores
+- estudando: redes, blue team / SOC, pentest
+
+<b>seiabras@bsb:~$</b> cat ~/.contato
+email     <a href="mailto:contato@linupedia.com.br">contato@linupedia.com.br</a>
+site      <a href="https://sites.linupedia.com.br">sites.linupedia.com.br</a>
+linkedin  <a href="https://www.linkedin.com/in/luiz-matheus-vega-3a076528a">in/luiz-matheus-vega-3a076528a</a>
+</pre>
+
+</details>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seiabras/Seiabras/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seiabras/Seiabras/output/github-snake.svg">

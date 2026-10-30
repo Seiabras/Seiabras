@@ -19,7 +19,8 @@ A mesma regra do `AGENTS.md` da LinuPedia: “A autoria tem que ser sempre minha
 
 ## Como o perfil é feito (30/10/2026)
 
-- **Estilo terminal, em inglês:** o `README.md` é um `<pre>` que imita uma sessão de terminal (`neofetch`, `ls -l`,
+- **Estilo terminal, em inglês, com a versão em português no `<details>` logo abaixo (mudar as duas juntas):** o
+  `README.md` é um `<pre>` que imita uma sessão de terminal (`neofetch`, `ls -l`,
   `curl -sI`, `cat ~/.plan`, `cat ~/.contact`). É HTML de propósito: dentro do `<pre>` os links funcionam. Alinhe as
   colunas pelo texto visível (sem contar as tags) e mantenha as linhas com até uns 95 caracteres, para não rolar.
 - **Indireto:** mostra o trabalho em vez de vender. Nada de “open to work”: no LinkedIn isso está só para

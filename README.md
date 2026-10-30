@@ -20,7 +20,6 @@ drwxr-xr-x  <a href="https://github.com/Seiabras/linu-sites">linu-sites/</a>    
 drwxr-xr-x  <a href="https://github.com/Seiabras/cafe-aurora">cafe-aurora/</a>            one page, three builds: CSS · Bootstrap · Tailwind
 drwxr-xr-x  <a href="https://github.com/Seiabras/fotografia-do-cerrado">fotografia-do-cerrado/</a>  WCAG 2.2 palette, every contrast ratio measured
 drwxr-xr-x  <a href="https://github.com/Seiabras/abelhas-sem-ferrao">abelhas-sem-ferrao/</a>     design thinking → accessible static site
-drwxr-xr-x  <a href="https://github.com/Seiabras/Prog1-UFRJ">Prog1-UFRJ/</a>             where it started: first C programs (2023)
 # drwx------ = closed source; the name opens the live site
 
 <b>seiabras@bsb:~$</b> curl -sI https://sites.linupedia.com.br \

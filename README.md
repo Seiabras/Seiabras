@@ -16,8 +16,9 @@ drwx------  <a href="https://linupedia.com.br">linupedia/</a>              offli
 drwx------  <a href="https://v2tech.app.br">v2tech/</a>                 fuel price audit for fleets · Node, zero deps
 drwx------  <a href="https://marginalia.blog.br">marginalia/</a>             history journal + the writer's admin panel
 drwx------  <a href="https://losveganaestrada.com.br">losveganaestrada/</a>       travel itineraries · orders panel · LGPD erase
+drwx------  <a href="https://minhocao.linupedia.com.br">minhocao/</a>               first-person horror game · UnB under the dictatorship
 drwxr-xr-x  <a href="https://github.com/Seiabras/linu-sites">linu-sites/</a>             13 locales from one template · CI deploy to my VM
-drwxr-xr-x  <a href="https://github.com/Seiabras/secure-node-starter">secure-node-starter/</a>    zero deps · STRIDE threat model · ASVS L1 · ZAP in CI
+drwxr-xr-x  <a href="https://github.com/Seiabras/secure-node-starter">secure-node-starter/</a>    zero deps · STRIDE · ASVS L1 · ZAP in CI · pentest report
 drwxr-xr-x  <a href="https://github.com/Seiabras/cafe-aurora">cafe-aurora/</a>            café by night, bakery by day · CSS · Bootstrap · Tailwind
 drwxr-xr-x  <a href="https://github.com/Seiabras/fotografia-do-cerrado">fotografia-do-cerrado/</a>  WCAG 2.2 palette, every contrast ratio measured
 drwxr-xr-x  <a href="https://github.com/Seiabras/abelhas-sem-ferrao">abelhas-sem-ferrao/</a>     design thinking → accessible static site
@@ -32,7 +33,8 @@ strict-transport-security: max-age=31536000
 <b>seiabras@bsb:~$</b> cat ~/.plan
 - linupedia: accounts by e-mail code, community wall, multiplayer camp
 - linu-sites: native-speaker review of the 12 translated locales
-- secure-node-starter: pentest of a deployed copy, then passkeys for admins
+- secure-node-starter: passkeys for admins
+- linu-soc: Wazuh on my VMs, detections mapped to MITRE ATT&amp;CK
 - learning: networking, blue team / SOC, pentest
 
 <b>seiabras@bsb:~$</b> cat ~/.contact
@@ -62,8 +64,9 @@ drwx------  <a href="https://linupedia.com.br">linupedia/</a>              app d
 drwx------  <a href="https://v2tech.app.br">v2tech/</a>                 auditoria de preço de combustível · Node, zero deps
 drwx------  <a href="https://marginalia.blog.br">marginalia/</a>             revista de história + painel para a autora
 drwx------  <a href="https://losveganaestrada.com.br">losveganaestrada/</a>       roteiros de viagem · painel de pedidos · LGPD
+drwx------  <a href="https://minhocao.linupedia.com.br">minhocao/</a>               terror em primeira pessoa · a UnB na ditadura
 drwxr-xr-x  <a href="https://github.com/Seiabras/linu-sites">linu-sites/</a>             13 idiomas num modelo só · deploy por CI na minha VM
-drwxr-xr-x  <a href="https://github.com/Seiabras/secure-node-starter">secure-node-starter/</a>    zero deps · modelo STRIDE · ASVS L1 · ZAP no CI · en/pt
+drwxr-xr-x  <a href="https://github.com/Seiabras/secure-node-starter">secure-node-starter/</a>    zero deps · STRIDE · ASVS L1 · ZAP no CI · pentest · en/pt
 drwxr-xr-x  <a href="https://github.com/Seiabras/cafe-aurora">cafe-aurora/</a>            café à noite, padaria de dia · Bootstrap · Tailwind
 drwxr-xr-x  <a href="https://github.com/Seiabras/fotografia-do-cerrado">fotografia-do-cerrado/</a>  paleta WCAG 2.2, cada contraste medido
 drwxr-xr-x  <a href="https://github.com/Seiabras/abelhas-sem-ferrao">abelhas-sem-ferrao/</a>     design thinking → site estático acessível
@@ -72,7 +75,8 @@ drwxr-xr-x  <a href="https://github.com/Seiabras/abelhas-sem-ferrao">abelhas-sem
 <b>seiabras@bsb:~$</b> cat ~/.plano
 - linupedia: contas por código no e-mail, mural da comunidade, acampamento multiplayer
 - linu-sites: revisão por nativos dos 12 idiomas traduzidos
-- secure-node-starter: pentest de uma cópia publicada, depois passkeys para administradores
+- secure-node-starter: passkeys para administradores
+- linu-soc: Wazuh nas minhas VMs, detecções ligadas ao MITRE ATT&amp;CK
 - estudando: redes, blue team / SOC, pentest
 
 <b>seiabras@bsb:~$</b> cat ~/.contato

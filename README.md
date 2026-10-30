@@ -34,8 +34,9 @@ strict-transport-security: max-age=31536000
 - learning: networking, blue team / SOC, pentest
 
 <b>seiabras@bsb:~$</b> cat ~/.contact
-mail  <a href="mailto:contato@linupedia.com.br">contato@linupedia.com.br</a>
-web   <a href="https://sites.linupedia.com.br">sites.linupedia.com.br</a>
+mail      <a href="mailto:contato@linupedia.com.br">contato@linupedia.com.br</a>
+web       <a href="https://sites.linupedia.com.br">sites.linupedia.com.br</a>
+linkedin  <a href="https://www.linkedin.com/in/luiz-matheus-vega-3a076528a">in/luiz-matheus-vega-3a076528a</a>
 
 <b>seiabras@bsb:~$</b> █
 </pre>

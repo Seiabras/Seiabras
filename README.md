@@ -38,7 +38,7 @@ strict-transport-security: max-age=31536000
 <b>seiabras@bsb:~$</b> cat ~/.contact
 mail      <a href="mailto:contato@linupedia.com.br">contato@linupedia.com.br</a>
 web       <a href="https://sites.linupedia.com.br">sites.linupedia.com.br</a>
-linkedin  <a href="https://www.linkedin.com/in/luiz-matheus-vega-3a076528a">in/luiz-matheus-vega-3a076528a</a>
+linkedin  <a href="https://www.linkedin.com/in/luizmatheusvega">in/luizmatheusvega</a>
 
 <b>seiabras@bsb:~$</b> █
 </pre>
@@ -78,7 +78,7 @@ drwxr-xr-x  <a href="https://github.com/Seiabras/abelhas-sem-ferrao">abelhas-sem
 <b>seiabras@bsb:~$</b> cat ~/.contato
 email     <a href="mailto:contato@linupedia.com.br">contato@linupedia.com.br</a>
 site      <a href="https://sites.linupedia.com.br">sites.linupedia.com.br</a>
-linkedin  <a href="https://www.linkedin.com/in/luiz-matheus-vega-3a076528a">in/luiz-matheus-vega-3a076528a</a>
+linkedin  <a href="https://www.linkedin.com/in/luizmatheusvega">in/luizmatheusvega</a>
 </pre>
 
 </details>

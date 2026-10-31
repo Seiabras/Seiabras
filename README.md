@@ -20,7 +20,7 @@ drwx------  <a href="https://minhocao.linupedia.com.br">minhocao/</a>           
 drwxr-xr-x  <a href="https://github.com/Seiabras/linu-sites">linu-sites/</a>             13 locales from one template · CI deploy to my VM
 drwxr-xr-x  <a href="https://github.com/Seiabras/secure-node-starter">secure-node-starter/</a>    zero deps · STRIDE · ASVS L1 · ZAP in CI · pentest report
 drwxr-xr-x  <a href="https://github.com/Seiabras/cafe-aurora">cafe-aurora/</a>            café by night, bakery by day · CSS · Bootstrap · Tailwind
-drwxr-xr-x  <a href="https://github.com/Seiabras/fotografia-do-cerrado">fotografia-do-cerrado/</a>  WCAG 2.2 palette, every contrast ratio measured
+drwxr-xr-x  <a href="https://github.com/Seiabras/fotografia-do-cerrado">fotografia-do-cerrado/</a>  guide to the Cerrado biome, with 70 species
 drwxr-xr-x  <a href="https://github.com/Seiabras/abelhas-sem-ferrao">abelhas-sem-ferrao/</a>     design thinking → accessible static site
 # drwx------ = closed source; the name opens the live site
 
@@ -68,7 +68,7 @@ drwx------  <a href="https://minhocao.linupedia.com.br">minhocao/</a>           
 drwxr-xr-x  <a href="https://github.com/Seiabras/linu-sites">linu-sites/</a>             13 idiomas num modelo só · deploy por CI na minha VM
 drwxr-xr-x  <a href="https://github.com/Seiabras/secure-node-starter">secure-node-starter/</a>    zero deps · STRIDE · ASVS L1 · ZAP no CI · pentest · en/pt
 drwxr-xr-x  <a href="https://github.com/Seiabras/cafe-aurora">cafe-aurora/</a>            café à noite, padaria de dia · Bootstrap · Tailwind
-drwxr-xr-x  <a href="https://github.com/Seiabras/fotografia-do-cerrado">fotografia-do-cerrado/</a>  paleta WCAG 2.2, cada contraste medido
+drwxr-xr-x  <a href="https://github.com/Seiabras/fotografia-do-cerrado">fotografia-do-cerrado/</a>  guia do bioma Cerrado, com 70 espécies
 drwxr-xr-x  <a href="https://github.com/Seiabras/abelhas-sem-ferrao">abelhas-sem-ferrao/</a>     design thinking → site estático acessível
 # drwx------ = código fechado; o nome abre o site no ar
 

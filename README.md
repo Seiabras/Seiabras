@@ -21,7 +21,7 @@ drwxr-xr-x  <a href="https://github.com/Seiabras/linu-sites">linu-sites/</a>    
 drwxr-xr-x  <a href="https://github.com/Seiabras/secure-node-starter">secure-node-starter/</a>    zero deps · STRIDE · ASVS L1 · ZAP in CI · pentest report
 drwxr-xr-x  <a href="https://github.com/Seiabras/cafe-aurora">cafe-aurora/</a>            café by night, bakery by day · CSS · Bootstrap · Tailwind
 drwxr-xr-x  <a href="https://github.com/Seiabras/fotografia-do-cerrado">fotografia-do-cerrado/</a>  guide to the Cerrado biome, with 114 species
-drwxr-xr-x  <a href="https://github.com/Seiabras/abelhas-sem-ferrao">abelhas-sem-ferrao/</a>     is it venomous? Brazil’s biting animals, 27 species
+drwxr-xr-x  <a href="https://github.com/Seiabras/abelhas-sem-ferrao">abelhas-sem-ferrao/</a>     is it venomous? Brazil’s biting animals, 37 species
 # drwx------ = closed source; the name opens the live site
 
 <b>seiabras@bsb:~$</b> curl -sI https://sites.linupedia.com.br \
@@ -69,7 +69,7 @@ drwxr-xr-x  <a href="https://github.com/Seiabras/linu-sites">linu-sites/</a>    
 drwxr-xr-x  <a href="https://github.com/Seiabras/secure-node-starter">secure-node-starter/</a>    zero deps · STRIDE · ASVS L1 · ZAP no CI · pentest · en/pt
 drwxr-xr-x  <a href="https://github.com/Seiabras/cafe-aurora">cafe-aurora/</a>            café à noite, padaria de dia · Bootstrap · Tailwind
 drwxr-xr-x  <a href="https://github.com/Seiabras/fotografia-do-cerrado">fotografia-do-cerrado/</a>  guia do bioma Cerrado, com 114 espécies
-drwxr-xr-x  <a href="https://github.com/Seiabras/abelhas-sem-ferrao">abelhas-sem-ferrao/</a>     pica ou não pica? bichos do Brasil, 27 espécies
+drwxr-xr-x  <a href="https://github.com/Seiabras/abelhas-sem-ferrao">abelhas-sem-ferrao/</a>     pica ou não pica? bichos do Brasil, 37 espécies
 # drwx------ = código fechado; o nome abre o site no ar
 
 <b>seiabras@bsb:~$</b> cat ~/.plano

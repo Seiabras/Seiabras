@@ -22,6 +22,7 @@ drwxr-xr-x  <a href="https://github.com/Seiabras/secure-node-starter">secure-nod
 drwxr-xr-x  <a href="https://github.com/Seiabras/cafe-aurora">cafe-aurora/</a>            café by night, bakery by day · orders, bookings · 5 builds
 drwxr-xr-x  <a href="https://github.com/Seiabras/fotografia-do-cerrado">fotografia-do-cerrado/</a>  guide to the Cerrado biome, with 114 species
 drwxr-xr-x  <a href="https://github.com/Seiabras/pica-nao-pica">pica-nao-pica/</a>          is it venomous? Brazil’s biting animals, 37 species
+drwxr-xr-x  <a href="https://github.com/Seiabras/cybertribunal">cybertribunal/</a>          AI tribunal for support chats · hackathon · in progress
 # drwx------ = closed source; the name opens the live site
 
 <b>seiabras@bsb:~$</b> curl -sI https://sites.linupedia.com.br \
@@ -70,6 +71,7 @@ drwxr-xr-x  <a href="https://github.com/Seiabras/secure-node-starter">secure-nod
 drwxr-xr-x  <a href="https://github.com/Seiabras/cafe-aurora">cafe-aurora/</a>            café à noite, padaria de dia · pedido, reservas · 5 versões
 drwxr-xr-x  <a href="https://github.com/Seiabras/fotografia-do-cerrado">fotografia-do-cerrado/</a>  guia do bioma Cerrado, com 114 espécies
 drwxr-xr-x  <a href="https://github.com/Seiabras/pica-nao-pica">pica-nao-pica/</a>          pica ou não pica? bichos do Brasil, 37 espécies
+drwxr-xr-x  <a href="https://github.com/Seiabras/cybertribunal">cybertribunal/</a>          tribunal de IAs no atendimento · hackathon · em andamento
 # drwx------ = código fechado; o nome abre o site no ar
 
 <b>seiabras@bsb:~$</b> cat ~/.plano
